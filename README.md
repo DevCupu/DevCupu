@@ -11,7 +11,7 @@
 <ul>
   <li>🌱 I’m currently learning <strong>IT Proramming and Cloud Computing</strong></li>
   <li>💬 Ask me about <strong>Something</strong></li>
-  <li>📫 How to reach me: <a href="ibnutamiyyaalkharoni@gmail.com">your.email@example.com</a></li>
+  <li>📫 How to reach me: <a href="ibnutamiyyaalkharoni@gmail.com">My email/a></li>
 </ul>
 
 <!-- Connect with Me -->
