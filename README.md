@@ -6,6 +6,11 @@
   <img src="https://compote.slate.com/images/17bdccdd-d8c9-44e6-b7f8-96f03ca50b33.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1200" alt="Ibnu Tamiyya Alkharoni" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <!-- Tentang Saya -->
 <h2>About Me</h2>
 <ul>
