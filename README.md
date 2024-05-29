@@ -1,15 +1,9 @@
 # Hello👋 semua! 
 
-Perkenalkan nama saya **Ibnu Tamiyya Alkharoni**.<br>😊
-
-Saya seorang **Mahasiswa Teknik Informatika dan komputer ** di [Dicoding](https://unm.ac.id/).<br>
-
-Saat ini saya sedang mengikuti program bangkit di semester 6.<br>
-
 <!-- Profil Header -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME_ANDA">[Your Name]</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/DevCupu">[Ibnu]</a> 👋</h1>
 <p align="center">
-  <img src="URL_GAMBAR_BANNER_ANDA" alt="[Your Name]" />
+  <img src="URL_GAMBAR_BANNER_ANDA" alt="[Ibnu Tamiyya Alkharoni]" />
 </p>
 
 <!-- Tentang Saya -->
