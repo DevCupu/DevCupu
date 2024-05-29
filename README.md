@@ -1,4 +1,6 @@
-# Hello👋 everyone, let me introduce myself, my name is Ibnu Tamiyya Alkharoni. I am very interested in programming and cloud, especially back-end and currently I am still learning to improve my skills.
+#<p> 
+Hello👋 everyone, let me introduce myself, my name is Ibnu Tamiyya Alkharoni. I am very interested in programming and cloud, especially back-end and currently I am still learning to improve my skills.
+</p>
 
 <!-- Profil Header -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/DevCupu">Ibnu</a> 👋</h1>
