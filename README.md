@@ -9,11 +9,25 @@
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+<div class="stats-container">
+  <div class="stats-item">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" />
+  </div>
+  <div class="stats-item">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
+  </div>
+</div>
+
+/* CSS */
+.stats-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.stats-item {
+  width: 100%;
+}
 
 
 <!-- Tentang Saya -->
