@@ -4,14 +4,19 @@
 <!-- Profil Header -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/DevCupu">Ibnu</a> 👋</h1>
 <p align="center">
-  <img src="https://compote.slate.com/images/17bdccdd-d8c9-44e6-b7f8-96f03ca50b33.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1200" alt="Ibnu Tamiyya Alkharoni" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/628/187/589/code-minimalism-programming-programming-language-wallpaper-preview.jpg" alt="Ibnu Tamiyya Alkharoni" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20Ibnu&hide=issues" alt="GitHub Stats" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCupu&theme=dracula" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 <!-- Tentang Saya -->
 <h2>🧑‍💻 About Me</h2>
