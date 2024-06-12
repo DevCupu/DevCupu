@@ -18,16 +18,11 @@
   </div>
 </div>
 
-/* CSS */
-.stats-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
 
-.stats-item {
-  width: 100%;
-}
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula) |
+|:---:|:---:|
 
 
 <!-- Tentang Saya -->
