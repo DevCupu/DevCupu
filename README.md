@@ -1,13 +1,6 @@
 <p align="center"> Hello👋 everyone, let me introduce myself, my name is Ibnu Tamiyya Alkharoni. I am very interested in programming and cloud, especially back-end and currently I am still learning to improve my skills.
 </p>
 
-- [Folder 1](./folder1)
-  - [Subfolder 1.1](./folder1/subfolder1.1)
-  - [Subfolder 1.2](./folder1/subfolder1.2)
-- [Folder 2](./folder2)
-  - [Subfolder 2.1](./folder2/subfolder2.1)
-
-
 <!-- Profil Header -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/DevCupu">Ibnu</a> 👋</h1>
 <p align="center">
