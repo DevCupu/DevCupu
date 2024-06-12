@@ -24,12 +24,11 @@
 <hr>
 
 <!-- Tentang Saya -->
-<h2 align="center">🧑‍💻 About Me</h2>
-<ul align="center">
-  <li>🌱 I’m currently learning <strong>IT Programming and Cloud Computing</strong></li>
-  <li>💬 Ask me about <strong>Something</strong></li>
-  <li>📫 How to reach me: <a href="mailto:ibnutamiyyaalkharoni@gmail.com">Ibnu Tamiyya Alkharoni</a></li>
-</ul>
+<h2 style="font-size: 24px; text-align: center;">🧑‍💻 About Me</h2>
+<p style="font-size: 18px; text-align: center; margin-bottom: 20px;">🌱 I’m currently learning <strong>IT Programming and Cloud Computing</strong><br>
+💬 Ask me about <strong>Something</strong><br>
+📫 How to reach me: <a href="mailto:ibnutamiyyaalkharoni@gmail.com">Ibnu Tamiyya Alkharoni</a></p>
+
 
 <hr>
 
