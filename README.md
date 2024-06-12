@@ -8,12 +8,14 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" width="50%" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" width="50%" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" width="50%" /></td>
+  </tr>
+</table>
 
 
 <!-- Tentang Saya -->
