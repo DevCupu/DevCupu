@@ -23,54 +23,6 @@
   </div>
 </p>
 
-<!-- CSS for Hover Effect and Animation -->
-<style>
-  .github-stats-card {
-    position: relative;
-    cursor: pointer;
-    transition: transform 0.2s ease-in-out;
-  }
-  .github-stats-card:hover {
-    transform: scale(1.05);
-  }
-  .top-languages-card {
-    animation: slideIn 1s forwards;
-  }
-  @keyframes slideIn {
-    from {
-      transform: translateX(-50px);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-  .hover-message {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: rgba(0, 0, 0, 0.8);
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    display: none; /* Hidden initially */
-  }
-</style>
-
-<!-- JavaScript to Show Hidden Message on Hover -->
-<script>
-  function showMessage() {
-    document.getElementById("hover-message").style.display = "block";
-  }
-  function hideMessage() {
-    document.getElementById("hover-message").style.display = "none";
-  }
-</script>
-
-
-
 <!-- Tentang Saya -->
 <h2>🧑‍💻 About Me</h2>
 <ul>
