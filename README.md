@@ -10,10 +10,65 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" />
+  <!-- GitHub Stats Card with Hover Effect -->
+  <div class="github-stats-card" onmouseover="showMessage()" onmouseout="hideMessage()">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20DevCupu&hide=issues" alt="GitHub Stats" />
+    <!-- Hidden message initially, shown on hover -->
+    <span class="hover-message" id="hover-message">Keep coding and have fun!</span>
+  </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
+  <!-- Top Languages Card with Animation -->
+  <div class="top-languages-card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
+  </div>
 </p>
+
+<!-- CSS for Hover Effect and Animation -->
+<style>
+  .github-stats-card {
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  .github-stats-card:hover {
+    transform: scale(1.05);
+  }
+  .top-languages-card {
+    animation: slideIn 1s forwards;
+  }
+  @keyframes slideIn {
+    from {
+      transform: translateX(-50px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  .hover-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: none; /* Hidden initially */
+  }
+</style>
+
+<!-- JavaScript to Show Hidden Message on Hover -->
+<script>
+  function showMessage() {
+    document.getElementById("hover-message").style.display = "block";
+  }
+  function hideMessage() {
+    document.getElementById("hover-message").style.display = "none";
+  }
+</script>
+
 
 
 <!-- Tentang Saya -->
