@@ -7,7 +7,10 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/628/187/589/code-minimalism-programming-programming-language-wallpaper-preview.jpg" alt="Ibnu Tamiyya Alkharoni" />
 </p>
 
-## 📊 GitHub Stats
+<hr>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20Ibnu&hide=issues" alt="GitHub Stats" />
 </p>
@@ -18,29 +21,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
+<hr>
+
 <!-- Tentang Saya -->
-<h2>🧑‍💻 About Me</h2>
-<ul>
+<h2 align="center">🧑‍💻 About Me</h2>
+<ul align="center">
   <li>🌱 I’m currently learning <strong>IT Programming and Cloud Computing</strong></li>
   <li>💬 Ask me about <strong>Something</strong></li>
   <li>📫 How to reach me: <a href="mailto:ibnutamiyyaalkharoni@gmail.com">Ibnu Tamiyya Alkharoni</a></li>
 </ul>
 
+<hr>
+
 <!-- Keahlian -->
-<h2>🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
+<hr>
+
 <!-- Connect with Me -->
-<h2>🤝 Connect with Me</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ibnu-tamiyya-al-kharoni-96b6a52a0/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
