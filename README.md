@@ -2,7 +2,7 @@
 </p>
 
 <!-- Profil Header -->
-<h1 style="font-size: 24px; text-align: center;">Hi there, I'm <a href="https://github.com/DevCupu">Ibnu</a> 👋</h1>
+<h1 style="font-size: 24px; text-align: center;">Hi there, I'm <a href="https://github.com/DevCupu">Iben</a> 👋</h1>
 <p style="text-align: center;">
   <img src="https://c4.wallpaperflare.com/wallpaper/628/187/589/code-minimalism-programming-programming-language-wallpaper-preview.jpg" alt="Ibnu Tamiyya Alkharoni" />
 </p>
