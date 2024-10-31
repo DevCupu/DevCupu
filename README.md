@@ -12,9 +12,6 @@
 <!-- GitHub Stats -->
 <h2 style="font-size: 24px; text-align: center;">📊 GitHub Stats</h2>
 <p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20-%20Ibnu&hide=issues" alt="GitHub Stats" />
-</p>
-<p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCupu&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 <p style="text-align: center;">
