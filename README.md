@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/Cxnn4tteX84Wi4dc8" alt="Express.js" width="40" height="40"/>
+  <img src="[https://images.app.goo.gl/Cxnn4tteX84Wi4dc8](https://www.split.io/wp-content/uploads/Blog-2160x1080-Building-a-CRUD-API-with-Node-js-and-Express.png)" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
