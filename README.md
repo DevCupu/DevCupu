@@ -35,6 +35,7 @@
 <hr>
 
 <!-- Keahlian -->
+<!-- Keahlian -->
 <h2 style="font-size: 24px; text-align: center;">🛠️ Languages and Tools</h2>
 <p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -42,9 +43,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
-  <img src="[https://images.app.goo.gl/Cxnn4tteX84Wi4dc8](https://www.split.io/wp-content/uploads/Blog-2160x1080-Building-a-CRUD-API-with-Node-js-and-Express.png)" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="filter: invert(42%) sepia(22%) saturate(1123%) hue-rotate(127deg) brightness(90%) contrast(89%);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
+
 
 <hr>
 
