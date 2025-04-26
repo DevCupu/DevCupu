@@ -11,7 +11,7 @@
 
 <p align="center" style="font-size: 22px;">
   <b>Hello 👋, I'm Ibnu Tamiyya Alkharoni</b><br>
-  A passionate <b>Back-End Developer</b> & <b>Cloud Computing Enthusiast</b> <b>Always learning to grow 🌱<b/> 🚀
+  A passionate <b> | Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
 ---
