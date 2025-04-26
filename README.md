@@ -14,9 +14,8 @@
 
 ## 🧑‍💻 About Me
 - 🔭 I'm currently working on Cloud-Based Projects using **Node.js & GCP**
-- 🌱 Always learning: **Backend System Design**, **Cloud Infrastructure**, and **DevOps**
+- 🌱 Always learning: **Backend System**, **Cloud Infrastructure**, and **DevOps**
 - 👨‍🎓 Background in Informatics Engineering Education, UNM
-- ✨ Passionate about building apps that solve real-world problems
 - 📫 Reach me at: [ibnutamiyyaalkharoni@gmail.com](mailto:ibnutamiyyaalkharoni@gmail.com)
 
 ---
@@ -41,9 +40,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevCupu&theme=tokyonight_duo&border_radius=10" width="70%" />
