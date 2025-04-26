@@ -21,7 +21,6 @@
 </p>
 
 ## 🧑‍💻 About Me
-- 🔭 I'm currently working on Cloud-Based Projects using **Node.js & GCP**
 - 🌱 Always learning: **Backend System**, **Cloud Infrastructure**, and **DevOps**
 - 👨‍🎓 Background in Informatics Engineering Education, UNM
 - 💬 Ask me About Cloud/Linux and Backend Programming
