@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/DevCupu">
-    <img src="https://w.wallhaven.cc/full/wq/wallhaven-wqr35p.jpg" />
+    <img src="https://img.freepik.com/free-photo/lifestyle-scene-anime-style-with-person-doing-daily-tasks_23-2151002609.jpg?t=st=1745634802~exp=1745638402~hmac=1bf68aee68fcf27a103f14d3674106575b77b160e358aabfcc7c0ed08f813a1f&w=1380" alt="Banner" width="80%" />
   </a>
 </p>
+
 
 ---
 
