@@ -16,6 +16,7 @@
 - 🔭 I'm currently working on Cloud-Based Projects using **Node.js & GCP**
 - 🌱 Always learning: **Backend System**, **Cloud Infrastructure**, and **DevOps**
 - 👨‍🎓 Background in Informatics Engineering Education, UNM
+- 💬 Ask me About Cloud/Linux and Backend Programming
 - 📫 Reach me at: [ibnutamiyyaalkharoni@gmail.com](mailto:ibnutamiyyaalkharoni@gmail.com)
 
 ---
@@ -46,12 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
 </p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=tokyonight_duo&border_radius=10" width="70%" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
