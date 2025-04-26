@@ -1,18 +1,4 @@
 <!-- Header -->
-<p align="center" style="font-size: 22px;">
-  <b>Hello 👋, I'm Ibnu Tamiyya Alkharoni</b><br>
-  A passionate <b>Back-End Developer</b> & <b>Cloud Computing Enthusiast</b> 🚀
-</p>
-
----
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
-</p>
-
 ---
 
 <p align="center">
@@ -22,6 +8,22 @@
 </p>
 
 ---
+
+<p align="center" style="font-size: 22px;">
+  <b>Hello 👋, I'm Ibnu Tamiyya Alkharoni</b><br>
+  A passionate <b>Back-End Developer</b> & <b>Cloud Computing Enthusiast</b> <b>Always learning to grow 🌱<b/> 🚀
+</p>
+
+---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="60%" />
+</p>
+
+
 
 ## 🧑‍💻 About Me
 - 🔭 I'm currently working on Cloud-Based Projects using **Node.js & GCP**
@@ -59,7 +61,7 @@
 </p>
 
 ### Cloud & DevOps Tools
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -74,7 +76,7 @@
 
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/ibnu-tamiyya-al-kharoni-96b6a52a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
