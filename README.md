@@ -4,6 +4,19 @@
   A passionate <b>Back-End Developer</b> & <b>Cloud Computing Enthusiast</b> 🚀
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/DevCupu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=14F7FF&center=true&vCenter=true&width=440&lines=Back-End+Developer;Cloud+Practitioner;Always+Learning+☁%ef%b8%8f+%26+Coding+💻" alt="Typing SVG" />
@@ -61,18 +74,6 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
