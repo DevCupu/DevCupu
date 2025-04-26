@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center" style="font-size: 22px;">
@@ -17,12 +16,9 @@
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" width="50%" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=DevCupu&theme=dark&border_radius=10&mode=weekly&dates=666666&ring=3b82f6&fire=3b82f6&currStreakNum=3b82f6" alt="GitHub Streak" width="50%" height="200px" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="40%" height="200px" />
 </p>
-
-
-
 
 ## 🧑‍💻 About Me
 - 🔭 I'm currently working on Cloud-Based Projects using **Node.js & GCP**
