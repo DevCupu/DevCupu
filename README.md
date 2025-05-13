@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DevCupu">
-    <img src="" alt="Banner" width="80%" />
+    <img src="banner.jpeg" alt="Banner" width="80%" />
   </a>
 </p>
 
