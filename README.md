@@ -1,12 +1,5 @@
 <!-- Header -->
----
-
-<p align="center">
-  <a href="https://github.com/DevCupu">
-    <img src="banner.jpeg" alt="Banner" width="80%" />
-  </a>
-</p>
-
+--
 ---
 
 <p align="center" style="font-size: 22px;">
