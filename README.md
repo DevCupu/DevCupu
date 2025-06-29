@@ -7,21 +7,24 @@
   A passionate <b> | Junior Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
-<!-- Hero Section -->
-<div style="display: flex; flex-wrap: wrap;  gap: 30px; padding: 30px 0;">
-  
-  <!-- GitHub Stats -->
-  <div style="background-color: #0f172a; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages" style="border-radius: 10px;" />
-  </div>
+<!-- Flex container for GitHub Stats and GIF -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-  <!-- Coding GIF -->
-  <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" 
-         width="300" 
-         alt="Coding GIF" 
-         style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);" />
-  </div>
+  <!-- GitHub Languages Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" 
+    alt="Top Languages" 
+    width="350" 
+    style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" 
+  />
+
+  <!-- Coding Cat GIF -->
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" 
+    width="300" 
+    alt="Coding Cat" 
+    style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" 
+  />
 
 </div>
 
