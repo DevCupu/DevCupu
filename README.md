@@ -7,7 +7,7 @@
   A passionate <b> | Junior Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 30px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 30px 0;">
 
   <!-- Profile Card -->
   <div style="display: flex; flex-direction: column; align-items: center; background-color: #1e293b; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2); width: 280px;">
