@@ -7,7 +7,7 @@
   A passionate <b> | Junior Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 30px 0;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 30px; padding: 30px 0;">
 
   <!-- Profile Card -->
   <div style="display: flex; flex-direction: column; align-items: center; background-color: #1e293b; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2); width: 280px;">
@@ -21,11 +21,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages Stats" style="border-radius: 10px;" />
   </div>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
-
+  <!-- GIF Animation -->
+  <div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="350" alt="Coding GIF" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);" />
+  </div>
 
 </div>
-
 
 
 
