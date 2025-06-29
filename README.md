@@ -7,28 +7,25 @@
   A passionate <b> | Junior Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
----
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 30px 0;">
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; padding: 20px 0;">
-  
-  <!-- Foto Profil -->
-  <div>
-    <img src="img.jpg" 
-         width="160" 
-         style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
-         alt="Ibnu Tamiyya Alkharoni" />
-    <p style="font-weight: bold; font-size: 16px; margin-top: 10px;">Ibnu Tamiyya Alkharoni</p>
+  <!-- Profile Card -->
+  <div style="display: flex; flex-direction: column; align-items: center; background-color: #1e293b; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2); width: 280px;">
+    <img src="img.jpg" width="120" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" alt="Ibnu Tamiyya Alkharoni" />
+    <h3 style="color: #fff; margin-top: 16px;">Ibnu Tamiyya Alkharoni</h3>
+    <p style="color: #cbd5e1; font-size: 14px; text-align: center; margin: 8px 0 0;">Junior Back-End Developer & Cloud Enthusiast</p>
   </div>
 
-  <!-- Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" 
-         width="350" 
-         alt="Top Languages Stats"
-         style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);" />
+  <!-- GitHub Stats Card -->
+  <div style="background-color: #0f172a; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages Stats" style="border-radius: 10px;" />
   </div>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
+
 
 </div>
+
 
 
 
