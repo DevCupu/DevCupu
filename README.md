@@ -12,7 +12,11 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/82455290?v=4" width="150" style="border-radius: 50%;" />
+ <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://avatars.githubusercontent.com/u/82455290?v=4" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Profile Picture" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages Stats" />
+</div>
+
     </td>
     <td>
       <img src="img.jpg" width="350"/>
