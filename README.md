@@ -7,20 +7,29 @@
   A passionate <b> | Junior Back-End Developer | </b> & <b>Cloud Computing Enthusiast | </b> <b>Always learning to grow 🌱| <b/> 🚀
 </p>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 30px; padding: 30px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; padding: 30px 0;">
+
+  <!-- Profile Card -->
+  <div style="display: flex; flex-direction: column; align-items: center; background-color: #1e293b; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2); width: 280px;">
+    <img src="img.jpg" width="120" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" alt="Ibnu Tamiyya Alkharoni" />
+    <h3 style="color: #fff; margin-top: 16px;">Ibnu Tamiyya Alkharoni</h3>
+    <p style="color: #cbd5e1; font-size: 14px; text-align: center; margin: 8px 0 0;">Junior Back-End Developer & Cloud Enthusiast</p>
+  </div>
 
   <!-- GitHub Stats Card -->
   <div style="background-color: #0f172a; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2);">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages Stats" style="border-radius: 10px;" />
   </div>
 
-  <!-- GIF Animation -->
+  <!-- Coding GIF -->
   <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="350" alt="Coding GIF" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" 
+         width="300" 
+         alt="Coding GIF" 
+         style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.2);" />
   </div>
 
 </div>
-
 
 
 
