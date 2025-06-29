@@ -9,20 +9,27 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
- <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://avatars.githubusercontent.com/u/82455290?v=4" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Profile Picture" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages Stats" />
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; padding: 20px 0;">
+  
+  <!-- Foto Profil -->
+  <div>
+    <img src="img.jpg" 
+         width="160" 
+         style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
+         alt="Ibnu Tamiyya Alkharoni" />
+    <p style="font-weight: bold; font-size: 16px; margin-top: 10px;">Ibnu Tamiyya Alkharoni</p>
+  </div>
+
+  <!-- Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" 
+         width="350" 
+         alt="Top Languages Stats"
+         style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);" />
+  </div>
+
 </div>
 
-    </td>
-    <td>
-      <img src="img.jpg" width="350"/>
-    </td>
-  </tr>
-</table>
 
 
 
