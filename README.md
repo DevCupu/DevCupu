@@ -9,9 +9,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/82455290?v=4" width="150" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <img src="img.jpg" width="350"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🧑‍💻 About Me
