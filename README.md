@@ -8,17 +8,8 @@
 </p>
 
 <!-- Hero Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; padding: 30px 0;">
+<div style="display: flex; flex-wrap: wrap;  gap: 30px; padding: 30px 0;">
   
-  <!-- Profile Card -->
-  <div style="display: flex; flex-direction: column; align-items: center; background-color: #1e293b; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2); width: 280px;">
-    <img src="img.jpg" width="120" alt="Ibnu Tamiyya Alkharoni" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
-    <h3 style="color: #fff; margin-top: 16px;">Ibnu Tamiyya Alkharoni</h3>
-    <p style="color: #cbd5e1; font-size: 14px; text-align: center; margin: 8px 0 0;">
-      Junior Back-End Developer & Cloud Enthusiast
-    </p>
-  </div>
-
   <!-- GitHub Stats -->
   <div style="background-color: #0f172a; padding: 20px; border-radius: 16px; box-shadow: 0 12px 24px rgba(0,0,0,0.2);">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&border_radius=10" width="350" alt="Top Languages" style="border-radius: 10px;" />
