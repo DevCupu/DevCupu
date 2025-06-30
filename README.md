@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Informatics Engineering Education, UNM
-- 🌱 Focus: **Backend Systems**, **Cloud Infrastructure**, **DevOps**
+- 🌱 Focus: **Backend Systems**, **Cloud Infrastructure**
 - 💬 Ask me about: Cloud, Linux, Backend Programming
 - 📫 Email: [ibnutamiyyaalkharoni@gmail.com](mailto:ibnutamiyyaalkharoni@gmail.com)
 - 🌏 Languages: Bahasa Indonesia, English (Basic)
