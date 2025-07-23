@@ -32,16 +32,6 @@
 
 ---
 
-## 🚀 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevCupu&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
-- 🔥 Passionate about open source and sharing knowledge
-- 🤝 Always open to collaboration on exciting projects
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
