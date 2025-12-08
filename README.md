@@ -7,14 +7,14 @@
   <i>Always learning, building, and growing 🚀</i>
 </p>
 
-<div align="center" style="margin: 30px 0;">
+<!-- <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/DevCupu">
     <img src="https://github-readme-stats.vercel.app/api?username=DevCupu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="160"/>
   </a>
   <a href="https://github.com/DevCupu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCupu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="160"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF2Mm5iOTh0M2doMmtudHFkejJtd2wxdzR5ZWdjM2o0aTIxdHhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="250" alt="Coding Cat" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
